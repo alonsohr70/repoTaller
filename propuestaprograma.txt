@@ -1,0 +1,19 @@
+Submodulo 1: Emplea frameworks para el desarrollo de software
+Programacion básica de python mediante un framework
+Submodulo 2: Aplica metodologias agiles para el desarrollo de software
+Crear aplicaciones python mediante framework implementando alguna metodologia o marco agil (scrum, kanban)
+    C1: Utiliza herramientas de metodologias ágiles en el desarrollo de software. (SCRUM, ¿que es? ¿como se aplica, componentes,
+        )
+    C2: Desarrolla proyectos de software con metodologias agiles (desarrollar una aplicacion python con base de datos tipo web)
+
+    Parcial 1: conceptos de SCRUM y programacion de python con formularios.
+    Parcial 2: conceptos de Kanban y programacion de python con base de datos
+    Parcial 3: creacion de una aplicacion python con base de datos aplicando SCRUM o Kanban
+
+    -----
+    Flask   (2010)
+    Es un framework para el desarrollo de proyectos web en python
+    Ligero
+    flexible
+
+

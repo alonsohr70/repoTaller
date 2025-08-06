@@ -15,5 +15,5 @@ else:
     promedio = sumacalificacion / totalcalificaciones
 
 print("Calificaciones leidas:",totalcalificaciones)
-print("Promedio de calificaciones; ",promedio)
+print("Promedio de calificaciones: ",promedio)
 
